@@ -38,7 +38,7 @@ fun main(args: Array<String>) {
 		+entities
 	}
 
-	enable(GlowESPPlugin)
+	enable(GlowESPPlugin
 	enable(BunnyHopPlugin)
 	enable(TriggerBotPlugin)
 	// enable(BoneTriggerPlugin)
